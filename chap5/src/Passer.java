@@ -1,3 +1,4 @@
+
 /**
  * Created by xiao on 1/5/2015.
  */
@@ -7,6 +8,8 @@ public class Passer {
         for (int i=0;i<text.length;i++){
             text[i]=text[i].toUpperCase();
         }
+
+
     }
 
     public static void main(String[] args) {
